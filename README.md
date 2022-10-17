@@ -5,7 +5,7 @@ The purpose of this project is to update the existing code to comply with access
 
 When the website is opened (or when source code is opened in default browser), the following page should appear as shown in the image below.
 
-![The Horiseon webpage includes a navigation bar, a header image, and cards with text and images at the bottom of the page.](./Assets/hanks-wk1-acccessibility-challenge.png)
+![The Horiseon webpage includes a navigation bar, a header image, and cards with text and images at the bottom of the page.](./assets/hanks-wk1-acccessibility-challenge.png)
 
 > **Note**: This layout is designed for desktop viewing, so some of the elements may appear differently on individuals' devices.
 
