@@ -15,7 +15,8 @@ N/A
 
 ## Usage
 
-Open the webpage using Chrome Developer Tools to inspect the source code. The code is commented and includes accessibility tags compared to the original code that used generic division tags.
+Open the webpage using the [live URL link](https://chloeeh.github.io/hanks-wk1-accessibility-challenge/) and use Chrome Developer Tools to inspect the source code. The code is commented and includes accessibility tags compared to the original code that used generic division tags.
+
 
 ## Credits
 
